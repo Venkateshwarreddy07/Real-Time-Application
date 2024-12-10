@@ -1,4 +1,4 @@
-# Rick-Paper-Scissor 
+# Rock-Paper-Scissor 
 
 Without rds
 
